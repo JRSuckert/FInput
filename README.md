@@ -4,7 +4,7 @@ Fortran Input Module
 
 ## Usage
 
-'''
+```
 subroutine example()
  use FInput
  implicit none
@@ -39,4 +39,4 @@ subroutine example()
 
  return
 end subroutine example
-'''
+```
